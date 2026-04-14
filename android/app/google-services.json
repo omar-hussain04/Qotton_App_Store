@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038489830914",
+    "project_id": "qotton-b5ad3",
+    "storage_bucket": "qotton-b5ad3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038489830914:android:637e472a1116533399091b",
+        "android_client_info": {
+          "package_name": "com.example.qotton_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfoAHUOA5_ok4kF68BrZLMII1JnckGVEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
